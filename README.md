@@ -1,5 +1,6 @@
 ## Hi there 👋
 
--[ ] Test
-*Milk
-*Cheese
+- Milk
+- Cheese
+- Eggs
+- Toast
