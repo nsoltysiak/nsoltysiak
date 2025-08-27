@@ -4,3 +4,5 @@
 - Cheese
 - Eggs
 - Toast
+- Sugar
+- Ants
